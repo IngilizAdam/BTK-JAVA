@@ -1,0 +1,9 @@
+Kullanıcıdan bir string ve bir karakter (c) alıp string içinde c’nin kaç defa geçtiğini ve c’nin
+frekansını ekrana yazan bir program yazınız. Frekans, bir karakterin string içinde görülme
+sayısının string’in toplam karakter sayısına bölünmesi ile elde edilir. String’in toplam
+karakter sayısı hesaplanırken boşluklar (white space) göz ardı edilmelidir ve program
+büyük-küçük harf ayrımı yapmamalıdır.
+
+Örnek olarak, string=“ Ankara Turkiye’nin baskentidir.” olsun ve c=‘A’ olsun. Bu
+durumda c toplam 4 yerde görülür. String ‘in karakter sayısı 29’dur (boşlukları saymıyoruz).
+Buna göre, c’nin frekansı 4/29=0.13793103 olarak hesaplanır.
