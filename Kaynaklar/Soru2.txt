@@ -1,0 +1,5 @@
+Kullanıcıdan bir string alıp string içinde geçen kelime sayısını ekrana yazan bir program
+yazınız. Kelimeler birbirleri ile boşluklar ile ayrılır.
+Örnek olarak, string=“ Hasan Tuna B T K Java   Egitimi” olsun. Bu durumda
+toplam kelime sayısı 7’dir. Bunlar: Hasan, Tuna, B, T, K, Java, Egitimi
+Bu soruda kullanabileceğiniz String metotları sadece length ve charAt ‘dir.
